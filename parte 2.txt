@@ -1,0 +1,7 @@
+Menu principal
+1 pollo, arroz, papas
+2 carne de cerdo, arroz, papas
+3 sopa de pollo
+4 arroz con pollo
+5 arroz chino
+6 arroz paisa
